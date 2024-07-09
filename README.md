@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @KrishnaWosti75 (The name's Krishna Wosti)
-- 👀 I’m interested in Full Stack Development & Ai.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Anything for now.
-- 📫 How to reach me You can visit my portfolio, it's all there.. 
-- 😄 Pronouns: A straight man.. i dont like those transgender type of shitty things.
-- ⚡ Fun fact: None Yet.. WOrking on a project though XD
+- 👋 Hello There.. The name's Krishna.
+- Interested / Invested in Full Stack Development & AI.
+- Broadening my knowledge in Programming.
+- Open to collaborate on Any type of project.
+- Visit my portfolio, All you're looking for is there.
 
 <!---
 KrishnaWosti75/KrishnaWosti75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
